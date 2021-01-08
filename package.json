@@ -1,0 +1,8 @@
+{
+  "name": "webgl-training",
+  "version": "1.0.0",
+  "main": "main.js",
+  "author": "me",
+  "license": "no",
+  "private": true
+}
